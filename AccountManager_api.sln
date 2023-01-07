@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountManager_api", "AccountManager_api\AccountManager_api.csproj", "{5990A31C-2A33-48B3-AA0D-C496D5C9BEC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FLX_Helper", "..\FLX_Helper\FLX_Helper.csproj", "{84BF8DE8-161D-4383-895B-39098C80C381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5990A31C-2A33-48B3-AA0D-C496D5C9BEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5990A31C-2A33-48B3-AA0D-C496D5C9BEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5990A31C-2A33-48B3-AA0D-C496D5C9BEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5990A31C-2A33-48B3-AA0D-C496D5C9BEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BF8DE8-161D-4383-895B-39098C80C381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BF8DE8-161D-4383-895B-39098C80C381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BF8DE8-161D-4383-895B-39098C80C381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BF8DE8-161D-4383-895B-39098C80C381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92AF5DB2-9A96-4955-9ED6-0A68C9B1FE70}
+	EndGlobalSection
+EndGlobal
