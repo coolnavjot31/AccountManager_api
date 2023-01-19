@@ -229,8 +229,8 @@
     },
     "FLX_Helper/1.0.0": {
       "type": "project",
-      "path": "../../FLX_Helper/FLX_Helper.csproj",
-      "msbuildProject": "../../FLX_Helper/FLX_Helper.csproj"
+      "path": "../../Shared/FLX_Helper/FLX_Helper/FLX_Helper.csproj",
+      "msbuildProject": "../../Shared/FLX_Helper/FLX_Helper/FLX_Helper.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -266,8 +266,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\PracticeProjects\\GitPractice\\FLX_Helper\\FLX_Helper.csproj": {
-              "projectPath": "E:\\PracticeProjects\\GitPractice\\FLX_Helper\\FLX_Helper.csproj"
+            "E:\\PracticeProjects\\GitPractice\\Shared\\FLX_Helper\\FLX_Helper\\FLX_Helper.csproj": {
+              "projectPath": "E:\\PracticeProjects\\GitPractice\\Shared\\FLX_Helper\\FLX_Helper\\FLX_Helper.csproj"
             }
           }
         }

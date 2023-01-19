@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\PracticeProjects\\GitPractice\\FLX_Helper\\FLX_Helper.csproj": {
-                "projectPath": "E:\\PracticeProjects\\GitPractice\\FLX_Helper\\FLX_Helper.csproj"
+              "E:\\PracticeProjects\\GitPractice\\Shared\\FLX_Helper\\FLX_Helper\\FLX_Helper.csproj": {
+                "projectPath": "E:\\PracticeProjects\\GitPractice\\Shared\\FLX_Helper\\FLX_Helper\\FLX_Helper.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "E:\\PracticeProjects\\GitPractice\\FLX_Helper\\FLX_Helper.csproj": {
+    "E:\\PracticeProjects\\GitPractice\\Shared\\FLX_Helper\\FLX_Helper\\FLX_Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PracticeProjects\\GitPractice\\FLX_Helper\\FLX_Helper.csproj",
+        "projectUniqueName": "E:\\PracticeProjects\\GitPractice\\Shared\\FLX_Helper\\FLX_Helper\\FLX_Helper.csproj",
         "projectName": "FLX_Helper",
-        "projectPath": "E:\\PracticeProjects\\GitPractice\\FLX_Helper\\FLX_Helper.csproj",
+        "projectPath": "E:\\PracticeProjects\\GitPractice\\Shared\\FLX_Helper\\FLX_Helper\\FLX_Helper.csproj",
         "packagesPath": "C:\\Users\\Navjot\\.nuget\\packages\\",
-        "outputPath": "E:\\PracticeProjects\\GitPractice\\FLX_Helper\\obj\\",
+        "outputPath": "E:\\PracticeProjects\\GitPractice\\Shared\\FLX_Helper\\FLX_Helper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Navjot\\AppData\\Roaming\\NuGet\\NuGet.Config",
