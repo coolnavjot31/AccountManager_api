@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountManager_api", "AccountManager_api\AccountManager_api.csproj", "{5990A31C-2A33-48B3-AA0D-C496D5C9BEC4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FLX_Helper", "..\FLX_Helper\FLX_Helper.csproj", "{84BF8DE8-161D-4383-895B-39098C80C381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FLX_Helper", "..\Shared\FLX_Helper\FLX_Helper\FLX_Helper.csproj", "{98AEB604-5213-4552-BAF2-5B43A654C770}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{5990A31C-2A33-48B3-AA0D-C496D5C9BEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5990A31C-2A33-48B3-AA0D-C496D5C9BEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5990A31C-2A33-48B3-AA0D-C496D5C9BEC4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{84BF8DE8-161D-4383-895B-39098C80C381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{84BF8DE8-161D-4383-895B-39098C80C381}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{84BF8DE8-161D-4383-895B-39098C80C381}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{84BF8DE8-161D-4383-895B-39098C80C381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AEB604-5213-4552-BAF2-5B43A654C770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AEB604-5213-4552-BAF2-5B43A654C770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AEB604-5213-4552-BAF2-5B43A654C770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AEB604-5213-4552-BAF2-5B43A654C770}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
