@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using FLX_Helper;
+//using FLX_Helper;
 
 namespace AccountManager_api.Controllers
 {
@@ -22,7 +22,7 @@ namespace AccountManager_api.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
-            HelperCl helperCl = new HelperCl(); 
+          //  HelperCl helperCl = new HelperCl(); 
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),
@@ -30,6 +30,12 @@ namespace AccountManager_api.Controllers
                 Summary = Summaries[Random.Shared.Next(Summaries.Length)]
             })
             .ToArray();
+        }
+
+        [HttpGet]
+        public string GetResult()
+        {
+            return "final results";
         }
     }
 }
